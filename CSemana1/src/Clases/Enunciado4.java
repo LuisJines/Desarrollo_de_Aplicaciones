@@ -99,7 +99,7 @@ public class Enunciado4 extends javax.swing.JFrame {
 
         jLabel1.setForeground(new java.awt.Color(51, 204, 255));
         jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel1.setText("ENUNCIADO 3");
+        jLabel1.setText("ENUNCIADO 4");
 
         javax.swing.GroupLayout TItuloLayout = new javax.swing.GroupLayout(TItulo);
         TItulo.setLayout(TItuloLayout);

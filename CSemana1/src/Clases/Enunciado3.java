@@ -93,7 +93,7 @@ private void formulario(){
         jLabel1.setBackground(new java.awt.Color(102, 153, 255));
         jLabel1.setForeground(new java.awt.Color(102, 102, 255));
         jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel1.setText("ENUNCIADO 2");
+        jLabel1.setText("ENUNCIADO 3");
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
